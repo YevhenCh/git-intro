@@ -4,4 +4,6 @@ Add something new
 testfrom GH
 data change from local repo
 qa4z
++ line for merge
+- line for rebase
 new line 1
