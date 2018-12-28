@@ -7,3 +7,4 @@ qa4z
 + line for merge
 - line for rebase
 new line 1
+f2-file added
